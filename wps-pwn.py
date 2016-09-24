@@ -209,7 +209,7 @@ def menu():
 # Execution
 def execute():
 	airmonStart()
-	print "\nWelcome to SmartReaver\n"
+	print "\nWelcome to wps-pwn\n"
 	global menu_counter
 	menu_counter = 0
 	menu()
