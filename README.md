@@ -1,7 +1,7 @@
 # wps-pwn
 Interactive python script for exploiting WPS on wireless access points.
 
-Dependencies: wireless card capable of packet injection, aircrack-ng, wash, reaver.
+Dependencies: wireless card capable of packet injection, aircrack-ng, wash, reaver, tee.
 
 Suggested Environment: Kali 2.0
 
